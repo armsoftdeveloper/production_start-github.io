@@ -69,3 +69,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # production_start-github.io
+
+/////////////////////////////////
+
+ToDo List App - With MUI Design
+
+It's a simple React 'Todo List App' created for junior Front-End / React.js Developers
+
+*You Can Add Todo Item
+*You Can Delete Current Todo Item
+*You Can Delete All Todo Items 
+*You Can Edit Current Todo Item
+*You Can Set Completed or Uncompleted The Current Todo Item
+
+From Developer Armen With Love - All Rigths Reserved ©
+GitHub - https://github.com/armsoftdeveloper
+LinkedIn - https://www.linkedin.com/in/armen-vardanyan-90b957223/
+Gmail - armsoftdeveloper@gmail.com
