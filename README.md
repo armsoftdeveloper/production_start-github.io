@@ -85,4 +85,4 @@ It's a simple React 'Todo List App' created for junior Front-End / React.js Deve
 From Developer Armen With Love - All Rigths Reserved ©
 GitHub - https://github.com/armsoftdeveloper
 LinkedIn - https://www.linkedin.com/in/armen-vardanyan-90b957223/
-Gmail - armsoftdeveloper@gmail.com
+Gmail - armsoftdeveloper@gmail.com# react-todo-app.github.io
